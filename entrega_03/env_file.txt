@@ -1,0 +1,9 @@
+# OPENROUTER LLM API
+OPENROUTER_API_KEY=OpenRouteur_api_key
+
+
+# Vtiger CRM (v8.1)
+VTIGER_BASE_URL=https://crm.albali.com
+VTIGER_USERNAME=nombre_usuario_vtiger
+VTIGER_ACCESS_KEY=clave_de_acceso_de_usuario
+

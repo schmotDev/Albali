@@ -118,6 +118,9 @@ El código python entregado es una prototipo de chatbot para ilustrar el funcion
    pip install -r requirements.txt
    ```
 
+
+   - Renombrar el fichero `env_file.txt` en fichero `.env`
+
    - Es necesario editar el fichero `.env` para introducir el valor de la Key de acceso a la API OpenRouter (se puede utilizar OpenAI)
 
    ```conf
