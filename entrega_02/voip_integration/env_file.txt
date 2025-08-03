@@ -1,0 +1,17 @@
+# Vtiger
+VTIGER_URL=https://crm.albali.com/webservice.php
+VTIGER_USERNAME=apiuser
+VTIGER_ACCESS_KEY=CLAVE_USUARIO
+
+# PBX webhook HMAC
+WEBHOOK_SECRET=supersecreto123
+
+# DB
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=voip_integration
+DB_USER=voip_user
+DB_PASSWORD=securepassword
+
+# Retries
+MAX_RETRIES=5
